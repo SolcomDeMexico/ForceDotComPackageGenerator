@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <type>
+        <members>CustomLabels</members>
+        <name>CustomLabels</name>
+    </type>
+    <type>
+        <members>OpportunityLineItem</members>
+        <members>Detalle_de_producto_de_factura__c</members>
+        <members>SocialPersona</members>
+        <members>User</members>
+        <members>Campaign</members>
+        <members>Aplicacion_de_Pagos__c</members>
+        <members>CaseContactRole</members>
+        <members>Event</members>
+        <members>OpportunityContactRole</members>
+        <members>Venta_Ilsa_del__c</members>
+        <members>Plan_de_Mantenimiento__c</members>
+        <members>Quote</members>
+        <members>Case</members>
+        <members>ContentVersion</members>
+        <members>Site</members>
+        <members>Activity</members>
+        <members>Lead</members>
+        <members>x_del__c</members>
+        <members>UserLicense</members>
+        <members>Asset</members>
+        <members>Plan_de_Facturacion__c</members>
+        <members>Solution</members>
+        <members>Idea</members>
+        <members>Nota_de_Cargo__c</members>
+        <members>AccountContactRole</members>
+        <members>Task</members>
+        <members>Product2</members>
+        <members>Account</members>
+        <members>CampaignMember</members>
+        <members>Contract</members>
+        <members>Pago__c</members>
+        <members>Contact</members>
+        <members>Factura__c</members>
+        <members>PartnerRole</members>
+        <members>ContractContactRole</members>
+        <members>Opportunity</members>
+        <members>QuoteLineItem</members>
+        <name>CustomObject</name>
+    </type>
+    <type>
+        <members>Cuentas_con_Facturas_con_Detalles_de_producto_de_factura</members>
+        <members>Cuentas_con_Pagos_con_Aplicaciones_de_Pagos</members>
+        <members>Oportunidades_con_Facturas</members>
+        <members>Cuentas_con_Facturas_con_Aplicaciones_de_Pagos</members>
+        <name>ReportType</name>
+    </type>
+    <type>
+        <members>Ilsa_Informes_Direccion/Facturaci_n_por_Linea_trimestre_actual</members>
+        <members>Ilsa_Informes_Direccion/Facturaci_n_por_sub_marca_del_trimestre</members>
+        <members>Ilsa_Informes_Direccion/Backlog_por_vendedor</members>
+        <members>Ilsa_Informes_Direccion/Proyecci_n_de_facturaci_n</members>
+        <members>Ilsa_Informes_Direccion/Oportunidades_Ganadas_Vs_Cuotas_General</members>
+        <members>Ilsa_Informes_Direccion/Cuotas_Op_Cerradas_por_Vendedor</members>
+        <members>Ilsa_Informes_Direccion/Oportunidades_cerradas_ganadas_del_mes</members>
+        <members>Ilsa_Informes_Direccion/Oportunidades_ganadas_del_trimestre</members>
+        <members>Ilsa_Informes_Direccion/Top_20_Oportunidades_abiertas_mas_grande</members>
+        <members>Ilsa_Informes_Direccion/Oportunidades_facturadas_por_vendedor</members>
+        <members>Ilsa_Informes_Direccion/Oportunidades_cerradas_vs_Cuota_vendedor2</members>
+        <members>Ilsa_Informes_Direccion/Facturaci_n_por_marca_del_trimestre</members>
+        <members>Ilsa_Informes_Direccion/Oportunidades_60_de_Avance</members>
+        <members>Ilsa_Informes_Direccion/D_Oportunidades_cerradas_ganadas_del_a_o</members>
+        <members>Ilsa_Informes_Direccion/Funel_de_Ventas</members>
+        <members>Ilsa_Informes_Direccion/Oportunidades_del_a_o_Ganadas_y_Abierta</members>
+        <name>Report</name>
+    </type>
+    <type>
+        <members>Ilsa_Panel_Direccion/Panel_Direccion</members>
+        <name>Dashboard</name>
+    </type>
+    <type>
+        <members>Case-Case Layout</members>
+        <members>Opportunity-Proyecto</members>
+        <members>OpportunityLineItem-Opportunity Product Layout</members>
+        <members>Plan_de_Facturacion__c-Formato Plan de Facturaci¾n</members>
+        <members>Lead-Lead Layout</members>
+        <members>Idea-Idea Layout</members>
+        <members>Opportunity-Opportunity Layout</members>
+        <members>Aplicacion_de_Pagos__c-Formato Aplicaci¾n de Pagos</members>
+        <members>Factura__c-Formato Factura</members>
+        <members>Solution-Solution Layout</members>
+        <members>Task-Task Layout</members>
+        <members>Pago__c-Formato Pago</members>
+        <members>Campaign-Campaign Layout</members>
+        <members>SocialPost-Social Post Layout</members>
+        <members>Event-Event Layout</members>
+        <members>Quote-Formato de presupuesto</members>
+        <members>Detalle_de_producto_de_factura__c-Formato Detalle de producto de factura</members>
+        <members>CampaignMember-Campaign Member Page Layout</members>
+        <members>Opportunity-Mantenimiento</members>
+        <members>Nota_de_Cargo__c-Formato Nota de Cargo</members>
+        <members>Opportunity-Producto Directo</members>
+        <members>Asset-Asset Layout</members>
+        <members>SocialPersona-Social Persona Layout</members>
+        <members>Contract-Contract Layout</members>
+        <members>QuoteLineItem-Formato de partida de presupuesto</members>
+        <members>CaseClose-Close Case Layout</members>
+        <members>Product2-Product Layout</members>
+        <members>Contact-Contact Layout</members>
+        <members>Plan_de_Mantenimiento__c-Formato Plan de Mantenimiento</members>
+        <members>User-User Layout</members>
+        <members>Account-Account Layout</members>
+        <name>Layout</name>
+    </type>
+    <type>
+        <members>Logos_Ilsa/Logo_Ilsa_2.jpg</members>
+        <members>Logos_Ilsa/Logo_Ilsa_1.jpg</members>
+        <members>Logos_Ilsa/Logo_Barra_lateral.jpg</members>
+        <members>Logos_Ilsa/Logo_Ilsa.jpg</members>
+        <members>Logos_Ilsa/Logo_Ilsa_10.jpg</members>
+        <name>Document</name>
+    </type>
+    <type>
+        <members>Plan_de_Mantenimiento__c</members>
+        <members>Plan_de_Facturacion__c</members>
+        <members>Factura__c</members>
+        <members>Pago__c</members>
+        <members>Nota_de_Cargo__c</members>
+        <members>Detalle_de_producto_de_factura__c</members>
+        <members>Aplicacion_de_Pagos__c</members>
+        <name>CustomTab</name>
+    </type>
+    <type>
+        <members>Ventas_Ilsa</members>
+        <members>Centro_de_llamadas_Ilsa</members>
+        <name>CustomApplication</name>
+    </type>
+    <type>
+        <members>Membrete_Ilsa</members>
+        <name>Letterhead</name>
+    </type>
+    <type>
+        <members>Factura__c</members>
+        <members>Pago__c</members>
+        <members>Opportunity</members>
+        <members>Nota_de_Cargo__c</members>
+        <members>Contract</members>
+        <members>Case</members>
+        <members>Product2</members>
+        <members>Quote</members>
+        <members>Solution</members>
+        <members>Plan_de_Mantenimiento__c</members>
+        <members>Detalle_de_producto_de_factura__c</members>
+        <members>UserLicense</members>
+        <members>Idea</members>
+        <members>Campaign</members>
+        <members>Aplicacion_de_Pagos__c</members>
+        <members>Venta_Ilsa_del__c</members>
+        <members>Event</members>
+        <members>Organization</members>
+        <members>Contact</members>
+        <members>Asset</members>
+        <members>Site</members>
+        <members>Plan_de_Facturacion__c</members>
+        <members>Task</members>
+        <members>x_del__c</members>
+        <members>QuoteLineItem</members>
+        <members>CampaignMember</members>
+        <members>Lead</members>
+        <members>OpportunityLineItem</members>
+        <members>Account</members>
+        <name>Workflow</name>
+    </type>
+    <type>
+        <members>Logo Barra lateral</members>
+        <name>HomePageComponent</name>
+    </type>
+    <type>
+        <members>Dashboard Home Page Default</members>
+        <name>HomePageLayout</name>
+    </type>
+    <type>
+        <members>Pago__c-es</members>
+        <members>Pago__c-en_US</members>
+        <members>Plan_de_Mantenimiento__c-en_US</members>
+        <members>Plan_de_Mantenimiento__c-es</members>
+        <members>Plan_de_Facturacion__c-es</members>
+        <members>Aplicacion_de_Pagos__c-en_US</members>
+        <members>Plan_de_Facturacion__c-en_US</members>
+        <members>Nota_de_Cargo__c-en_US</members>
+        <members>Detalle_de_producto_de_factura__c-es</members>
+        <members>Factura__c-en_US</members>
+        <members>Detalle_de_producto_de_factura__c-en_US</members>
+        <name>CustomObjectTranslation</name>
+    </type>
+    <type>
+        <members>ReadOnly</members>
+        <members>Chatter Free User</members>
+        <members>ContractManager</members>
+        <members>Guest License User</members>
+        <members>Ventas Internas</members>
+        <members>Vendedor</members>
+        <members>MarketingProfile</members>
+        <members>Admin</members>
+        <members>Direcci¾n</members>
+        <members>SolutionManager</members>
+        <members>Chatter Moderator User</members>
+        <members>LÝder de ventas</members>
+        <members>Standard</members>
+        <members>Chatter External User</members>
+        <members>Marketing</members>
+        <name>Profile</name>
+    </type>
+    <type>
+        <members>Ventas_Ilsa_Developer</members>
+        <name>PermissionSet</name>
+    </type>
+    <version>23.0</version>
+</Package>
